@@ -7,7 +7,7 @@
 
 //--------------------------------------------------------------------------
 
-let frase = prompt("Introduce una frase:").toLowerCase(); // Convertir a minúsculas
+const frase = prompt("Introduce una frase:").toLowerCase(); // Convertir a minúsculas
 let vocalesEncontradas = "";
 
 // Recorrer cada carácter de la frase

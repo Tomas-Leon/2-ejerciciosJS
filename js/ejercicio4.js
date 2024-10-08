@@ -7,5 +7,5 @@
 
 //--------------------------------------------------------------------------
 
-let nombreUsuario = prompt('Ingrese su numbre de usuario')
+const nombreUsuario = prompt('Ingrese su numbre de usuario')
 document.write('Hola '+nombreUsuario)

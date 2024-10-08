@@ -8,7 +8,7 @@
 
 //--------------------------------------------------------------------------
 
-let numero = parseInt(prompt("Introduce un número:"))
+const numero = parseInt(prompt("Introduce un número:"))
 
 // Variable para almacenar los divisores
 let divisores = []

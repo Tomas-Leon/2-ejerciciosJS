@@ -7,7 +7,7 @@
 
 //--------------------------------------------------------------------------
 
-let num9 = parseInt(prompt("Introduce un número:"));
+const num9 = parseInt(prompt("Introduce un número:"));
 
 if (num9 % 2 === 0) {
     document.write("El " + num9 + " es divisible por 2.");

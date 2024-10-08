@@ -7,7 +7,7 @@
 
 //--------------------------------------------------------------------------
 
-let num8 = parseInt(prompt('Ingrese un numero'))
+const num8 = parseInt(prompt('Ingrese un numero'))
 if (num8 % 2 === 0) {
     document.write('El numero '+ num8 +' es divisible por 2.')
 } else {

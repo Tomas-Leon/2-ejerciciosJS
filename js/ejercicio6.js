@@ -7,8 +7,8 @@
 
 //--------------------------------------------------------------------------
 
-let num3 = parseInt(prompt('ingrese un numero'))
-let num4 = parseInt(prompt('ingrese otro numero'))
+const num3 = parseInt(prompt('ingrese un numero'))
+const num4 = parseInt(prompt('ingrese otro numero'))
 if (num3 > num4) {
     document.write('El numero mayor es: '+num3)
 } else if (num4 > num3) {

@@ -5,6 +5,6 @@
 
 //--------------------------------------------------------------------------
 
-let num1 = parseInt(prompt('ingrese un numero'))
-let num2 = parseInt(prompt('ingrese otro numero'))
+const num1 = parseInt(prompt('ingrese un numero'))
+const num2 = parseInt(prompt('ingrese otro numero'))
 document.write('el resultado de sumar ambos numeros es: '+(num1+num2))

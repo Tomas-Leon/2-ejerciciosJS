@@ -7,9 +7,9 @@
 
 //--------------------------------------------------------------------------
 
-let num5 = parseInt(prompt('ingrese un numero'))
-let num6 = parseInt(prompt('ingrese el segundo numero'))
-let num7 = parseInt(prompt('ingrese el tercer numero'))
+const num5 = parseInt(prompt('ingrese un numero'))
+const num6 = parseInt(prompt('ingrese el segundo numero'))
+const num7 = parseInt(prompt('ingrese el tercer numero'))
 let mayor = num5
 if (num6 > mayor) {
     mayor = num6
