@@ -13,7 +13,6 @@ let numero = parseInt(prompt("Introduce un número:"))
 // Variable para almacenar los divisores
 let divisores = []
 
-// Verificar la divisibilidad
 if (numero % 2 === 0) {
     divisores.push("2");
 }
@@ -28,7 +27,7 @@ if (numero % 7 === 0) {
 }
 
 //push:Si es divisible, se añade el número correspondiente al array 
-//divisores utilizando el método push creando una cadena separada por comas.
+//'divisores' utilizando el método push creando una cadena separada por comas.
 
 if (divisores.length > 0) {
     document.write('el numero: '+numero+' es divisible por: '+divisores)

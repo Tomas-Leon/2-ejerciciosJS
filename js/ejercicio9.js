@@ -31,3 +31,4 @@ if (vocalesEncontradas.length > 0) {
 //length: Obtiene el número total de caracteres en una cadena.
 //charAt: Accede a un carácter en un índice específico de la cadena.
 //includes: Verifica si una cadena contiene una subcadena específica.
+//1++: es la forma abrviada de decir i=i+1.Esto significa que después de cada iteración del bucle, el valor de i se incrementa en 1.
